@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Huzaiz Khalid
 
-<!--
-**HuzaizKhalid/HuzaizKhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | React.js | Node.js | MERN Stack | Open to Opportunities
 
-Here are some ideas to get you started:
+🔗 **Portfolio**: [https://huzaiz-portfolio.vercel.app](https://huzaiz-portfolio.vercel.app)  
+📧 **Email**: huzaizwebdev@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/huzaizkhalidqureshi-2a72b4243](https://www.linkedin.com/in/huzaizkhalidqureshi-2a72b4243)  
+🐱 **GitHub**: [github.com/HuzaizKhalid](https://github.com/HuzaizKhalid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git, GitHub, Vercel, Postman
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Live Demo | Code |
+|--------|-----------|------|
+| Portfolio Website | [Live](https://huzaiz-portfolio.vercel.app) | [Repo](https://github.com/HuzaizKhalid/your-portfolio-repo) |
+| Food Ordering App | [Live](https://your-deployment-link.com) | [Repo](https://github.com/HuzaizKhalid/your-project-repo) |
+
